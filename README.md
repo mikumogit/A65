@@ -12,7 +12,12 @@ You can buy the GL516 case [YushaKobo](https://shop.yushakobo.jp/collections/cas
 Or you can fabricate your own from [publicly available 3D data](https://github.com/Salicylic-acid3/GL516_Case).
 
 **Version History**
+
 - Rev 0.1…  Prototype edition.
+
+- Rev 1.0…  Added stabilizer holes to allow the Right Option key to be installed in the upward position. / Fixed reset switch position.   
+
+  
 
 ***
 GL516 Template is Released under the MIT license.<br>
